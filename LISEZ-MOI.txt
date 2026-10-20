@@ -1,0 +1,7 @@
+KYLE'S SUMMER — version dessins comics
+
+Ouvrir index.html ou déposer tout le contenu de ce dossier sur Netlify.
+La vidéo kyles summer holidays.mp4 doit rester à côté de index.html.
+Les 14 dessins comics sont intégrés dans index.html ET fournis en images PNG séparées.
+Les audios MP3 sont intégrés dans index.html et fournis dans audio/.
+Le classement localStorage n’est visible que sur le navigateur de chaque élève.

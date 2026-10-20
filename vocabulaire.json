@@ -1,0 +1,86 @@
+[
+  {
+    "id": 0,
+    "en": "He went to the Rockies in Wyoming.",
+    "fr": "Il est allé dans les Rocheuses dans le Wyoming.",
+    "slug": "rockies"
+  },
+  {
+    "id": 1,
+    "en": "He went there in August.",
+    "fr": "Il y est allé en août.",
+    "slug": "august"
+  },
+  {
+    "id": 2,
+    "en": "He camped in the mountains.",
+    "fr": "Il a campé dans les montagnes.",
+    "slug": "camp"
+  },
+  {
+    "id": 3,
+    "en": "He went kayaking.",
+    "fr": "Il a fait du kayak.",
+    "slug": "kayak"
+  },
+  {
+    "id": 4,
+    "en": "He went rock-climbing.",
+    "fr": "Il a fait de l’escalade.",
+    "slug": "climb"
+  },
+  {
+    "id": 5,
+    "en": "He went mountain-biking.",
+    "fr": "Il a fait du VTT.",
+    "slug": "bike"
+  },
+  {
+    "id": 6,
+    "en": "Did he fall off his bike?",
+    "fr": "Est-ce qu’il est tombé de son vélo ?",
+    "slug": "fall"
+  },
+  {
+    "id": 7,
+    "en": "It was raining all the time.",
+    "fr": "Il pleuvait tout le temps.",
+    "slug": "rain"
+  },
+  {
+    "id": 8,
+    "en": "There were storms every day.",
+    "fr": "Il y avait des tempêtes tous les jours.",
+    "slug": "storm"
+  },
+  {
+    "id": 9,
+    "en": "How did he break his arm?",
+    "fr": "Comment s’est-il cassé le bras ?",
+    "slug": "arm"
+  },
+  {
+    "id": 10,
+    "en": "He tripped over his backpack.",
+    "fr": "Il a trébuché sur son sac à dos.",
+    "slug": "trip"
+  },
+  {
+    "id": 11,
+    "en": "I was jet lagged.",
+    "fr": "J’avais le décalage horaire.",
+    "slug": "lag"
+  },
+  {
+    "id": 12,
+    "en": "It really hurt.",
+    "fr": "Ça faisait très mal.",
+    "slug": "hurt"
+  },
+  {
+    "id": 13,
+    "en": "He twisted his ankle.",
+    "fr": "Il s’est tordu la cheville.",
+    "slug": "ankle"
+  }
+]
